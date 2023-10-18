@@ -2,7 +2,7 @@
 Neste repositório, você encontrará uma API que foi desenvolvida para o controle de tarefas (To-Do) com funcionalidades para adicionar, editar, excluir e listar tarefas.
 
 ## Descrição
-A API retorna dados em formato JSON, incluindo informações como título, descrição e status (done). Além disso, para armazenar os dados de forma segura e eficiente, o PostgreSQL foi utilizado como banco de dados, e o Docker foi empregado para criar uma imagem virtualizada do PostgreSQL. Isso permite que você inicie facilmente um ambiente de banco de dados em contêiner, tornando o desenvolvimento e implantação mais ágeis e escaláveis.
+A API retorna dados em formato JSON, incluindo informações como título, descrição e status (done). Além disso, para armazenar os dados de forma segura e eficiente, o PostgreSQL foi utilizado como banco de dados, e o Docker foi empregado para criar um contêiner do PostgreSQL. Isso permite que você inicie facilmente um ambiente de banco de dados em contêiner, tornando o desenvolvimento e implantação mais ágeis e escaláveis.
 
 ## Informações do Projeto
 
